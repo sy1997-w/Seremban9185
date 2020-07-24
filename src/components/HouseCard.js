@@ -39,7 +39,7 @@ export default class HouseCard extends Component {
                   to={`/CardDetail/${this.props.property.id}`}
                   target="_blank"
                 >
-                  For more information >>>{" "}
+                  For more information
                 </Link>
               </p>
             </Card.Text>

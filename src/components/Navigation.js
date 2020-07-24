@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink, Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import { Navbar, Nav, NavDropdown, ResponsiveEmbed } from "react-bootstrap";
 
 const Navigation = () => {
@@ -17,14 +17,14 @@ const Navigation = () => {
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse className="justify-content-end">
-          <Link to="/">Home</Link>
-          <Link to="/arview">
+          <Nav.Link href="/">Home</Nav.Link>
+          <Nav.Link href="/arview">
             <h3>AR</h3>
-          </Link>
-          <Link to="/about">About</Link>
-          <Link to="/recommendation">
+          </Nav.Link>
+          <Nav.Link href="/about">About</Nav.Link>
+          <Nav.Link href="/recommendation">
             <h4>Recommendation</h4>
-          </Link>
+          </Nav.Link>
         </Navbar.Collapse>
       </Navbar>
     </div>

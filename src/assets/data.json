@@ -8,7 +8,8 @@
     "type": "Serviced Residence",
     "size": 1000,
     "furnishing": "Unfurnished",
-    "id": 0
+    "id": 0,
+    "view": 9
   },
   {
     "location": "Mont Kiara",
@@ -19,7 +20,8 @@
     "type": "Condominium",
     "size": 1605,
     "furnishing": "Fully Furnished",
-    "id": 1
+    "id": 1,
+    "view": 20
   },
   {
     "location": "Setapak",
@@ -30,7 +32,8 @@
     "type": "Condominium",
     "size": 1100,
     "furnishing": "Unfurnished",
-    "id": 2
+    "id": 2,
+    "view": 12
   },
   {
     "location": "Cheras",
@@ -41,7 +44,8 @@
     "type": "Serviced Residence",
     "size": 915,
     "furnishing": "Fully Furnished",
-    "id": 3
+    "id": 3,
+    "view": 13
   },
   {
     "location": "Cheras",
@@ -52,7 +56,8 @@
     "type": "Serviced Residence",
     "size": 719,
     "furnishing": "Partly Furnished",
-    "id": 4
+    "id": 4,
+    "view": 21
   },
   {
     "location": "Jalan Sultan Ismail",
@@ -63,7 +68,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 988,
     "furnishing": "Fully Furnished",
-    "id": 5
+    "id": 5,
+    "view": 9
   },
   {
     "location": "Dutamas",
@@ -74,7 +80,8 @@
     "type": "Condominium (Corner)",
     "size": 1450,
     "furnishing": "Partly Furnished",
-    "id": 6
+    "id": 6,
+    "view": 2
   },
   {
     "location": "KLCC",
@@ -85,7 +92,8 @@
     "type": "Serviced Residence",
     "size": 880,
     "furnishing": "Fully Furnished",
-    "id": 7
+    "id": 7,
+    "view": 3
   },
   {
     "location": "Bandar Menjalara",
@@ -96,7 +104,8 @@
     "type": "2-sty Terrace/Link House (Intermediate)",
     "size": 880,
     "furnishing": "Fully Furnished",
-    "id": 8
+    "id": 8,
+    "view": 24
   },
   {
     "location": "KLCC",
@@ -107,7 +116,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 4284,
     "furnishing": "Partly Furnished",
-    "id": 9
+    "id": 9,
+    "view": 8
   },
   {
     "location": "Desa Pandan",
@@ -118,7 +128,8 @@
     "type": "Apartment (Intermediate)",
     "size": 1500,
     "furnishing": "Fully Furnished",
-    "id": 10
+    "id": 10,
+    "view": 17
   },
   {
     "location": "Ampang",
@@ -129,7 +140,8 @@
     "type": "2-sty Terrace/Link House (Intermediate)",
     "size": 1500,
     "furnishing": "Partly Furnished",
-    "id": 11
+    "id": 11,
+    "view": 10
   },
   {
     "location": "Taman Desa",
@@ -140,7 +152,8 @@
     "type": "Semi-detached House (Intermediate)",
     "size": 4520,
     "furnishing": "Partly Furnished",
-    "id": 12
+    "id": 12,
+    "view": 14
   },
   {
     "location": "Taman Melawati",
@@ -151,7 +164,8 @@
     "type": "Bungalow (Intermediate)",
     "size": 5998,
     "furnishing": "Unfurnished",
-    "id": 13
+    "id": 13,
+    "view": 12
   },
   {
     "location": "KL Sentral",
@@ -162,7 +176,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 1259,
     "furnishing": "Unfurnished",
-    "id": 14
+    "id": 14,
+    "view": 3
   },
   {
     "location": "Salak Selatan",
@@ -173,7 +188,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 862,
     "furnishing": "Partly Furnished",
-    "id": 15
+    "id": 15,
+    "view": 24
   },
   {
     "location": "Desa Petaling",
@@ -184,7 +200,8 @@
     "type": "3-sty Terrace/Link House",
     "size": 1400,
     "furnishing": "Fully Furnished",
-    "id": 16
+    "id": 16,
+    "view": 23
   },
   {
     "location": "Taman Desa",
@@ -195,7 +212,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1355,
     "furnishing": "Partly Furnished",
-    "id": 17
+    "id": 17,
+    "view": 16
   },
   {
     "location": "Bangsar South",
@@ -206,7 +224,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 990,
     "furnishing": "Unfurnished",
-    "id": 18
+    "id": 18,
+    "view": 4
   },
   {
     "location": "KL Sentral",
@@ -217,7 +236,8 @@
     "type": "Serviced Residence",
     "size": 1485,
     "furnishing": "Fully Furnished",
-    "id": 19
+    "id": 19,
+    "view": 15
   },
   {
     "location": "Mont Kiara",
@@ -228,7 +248,8 @@
     "type": "Condominium",
     "size": 4445,
     "furnishing": "Fully Furnished",
-    "id": 20
+    "id": 20,
+    "view": 4
   },
   {
     "location": "Jalan Ipoh",
@@ -239,7 +260,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1230,
     "furnishing": "Partly Furnished",
-    "id": 21
+    "id": 21,
+    "view": 4
   },
   {
     "location": "Mont Kiara",
@@ -250,7 +272,8 @@
     "type": "Serviced Residence",
     "size": 907,
     "furnishing": "Fully Furnished",
-    "id": 22
+    "id": 22,
+    "view": 19
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -261,7 +284,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 1010,
     "furnishing": "Fully Furnished",
-    "id": 23
+    "id": 23,
+    "view": 1
   },
   {
     "location": "Setapak",
@@ -272,7 +296,8 @@
     "type": "Condominium",
     "size": 2500,
     "furnishing": "Partly Furnished",
-    "id": 24
+    "id": 24,
+    "view": 22
   },
   {
     "location": "Sungai Besi",
@@ -283,7 +308,8 @@
     "type": "Serviced Residence",
     "size": 800,
     "furnishing": "Partly Furnished",
-    "id": 25
+    "id": 25,
+    "view": 16
   },
   {
     "location": "Mont Kiara",
@@ -294,7 +320,8 @@
     "type": "Condominium (Corner)",
     "size": 2314,
     "furnishing": "Partly Furnished",
-    "id": 26
+    "id": 26,
+    "view": 23
   },
   {
     "location": "Cheras",
@@ -305,7 +332,8 @@
     "type": "3-sty Terrace/Link House (Intermediate)",
     "size": 2335,
     "furnishing": "Partly Furnished",
-    "id": 27
+    "id": 27,
+    "view": 8
   },
   {
     "location": "Mont Kiara",
@@ -316,7 +344,8 @@
     "type": "Condominium (Corner)",
     "size": 3478,
     "furnishing": "Partly Furnished",
-    "id": 28
+    "id": 28,
+    "view": 23
   },
   {
     "location": "Bandar Menjalara",
@@ -327,7 +356,8 @@
     "type": "Condominium",
     "size": 1076,
     "furnishing": "Partly Furnished",
-    "id": 29
+    "id": 29,
+    "view": 9
   },
   {
     "location": "Cheras",
@@ -338,7 +368,8 @@
     "type": "Serviced Residence",
     "size": 920,
     "furnishing": "Fully Furnished",
-    "id": 30
+    "id": 30,
+    "view": 19
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -349,7 +380,8 @@
     "type": "Condominium",
     "size": 730,
     "furnishing": "Partly Furnished",
-    "id": 31
+    "id": 31,
+    "view": 9
   },
   {
     "location": "Bangsar",
@@ -360,7 +392,8 @@
     "type": "Serviced Residence",
     "size": 671,
     "furnishing": "Fully Furnished",
-    "id": 32
+    "id": 32,
+    "view": 16
   },
   {
     "location": "Segambut",
@@ -371,7 +404,8 @@
     "type": "Condominium",
     "size": 1019,
     "furnishing": "Unfurnished",
-    "id": 33
+    "id": 33,
+    "view": 1
   },
   {
     "location": "KLCC",
@@ -382,7 +416,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 1668,
     "furnishing": "Unfurnished",
-    "id": 34
+    "id": 34,
+    "view": 4
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -393,7 +428,8 @@
     "type": "Serviced Residence",
     "size": 775,
     "furnishing": "Partly Furnished",
-    "id": 35
+    "id": 35,
+    "view": 2
   },
   {
     "location": "Seputeh",
@@ -404,7 +440,8 @@
     "type": "Bungalow (Corner)",
     "size": 7265,
     "furnishing": "Partly Furnished",
-    "id": 36
+    "id": 36,
+    "view": 3
   },
   {
     "location": "Bangsar",
@@ -415,7 +452,8 @@
     "type": "Condominium (Corner)",
     "size": 4025,
     "furnishing": "Partly Furnished",
-    "id": 37
+    "id": 37,
+    "view": 1
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -426,7 +464,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1000,
     "furnishing": "Partly Furnished",
-    "id": 38
+    "id": 38,
+    "view": 17
   },
   {
     "location": "KLCC",
@@ -437,7 +476,8 @@
     "type": "Serviced Residence",
     "size": 1206,
     "furnishing": "Partly Furnished",
-    "id": 39
+    "id": 39,
+    "view": 17
   },
   {
     "location": "Mont Kiara",
@@ -448,7 +488,8 @@
     "type": "Condominium (Corner)",
     "size": 3741,
     "furnishing": "Partly Furnished",
-    "id": 40
+    "id": 40,
+    "view": 12
   },
   {
     "location": "Desa ParkCity",
@@ -459,7 +500,8 @@
     "type": "2.5-sty Terrace/Link House (Intermediate)",
     "size": 1600,
     "furnishing": "Partly Furnished",
-    "id": 41
+    "id": 41,
+    "view": 15
   },
   {
     "location": "Bukit Jalil",
@@ -470,7 +512,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1073,
     "furnishing": "Partly Furnished",
-    "id": 42
+    "id": 42,
+    "view": 6
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -481,7 +524,8 @@
     "type": "Condominium",
     "size": 1488,
     "furnishing": "Partly Furnished",
-    "id": 43
+    "id": 43,
+    "view": 21
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -492,7 +536,8 @@
     "type": "Condominium (Corner)",
     "size": 1313,
     "furnishing": "Partly Furnished",
-    "id": 44
+    "id": 44,
+    "view": 23
   },
   {
     "location": "Jalan Ipoh",
@@ -503,7 +548,8 @@
     "type": "Condominium (Intermediate)",
     "size": 840,
     "furnishing": "Fully Furnished",
-    "id": 45
+    "id": 45,
+    "view": 5
   },
   {
     "location": "Ampang Hilir",
@@ -514,7 +560,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 820,
     "furnishing": "Fully Furnished",
-    "id": 46
+    "id": 46,
+    "view": 5
   },
   {
     "location": "Desa ParkCity",
@@ -525,7 +572,8 @@
     "type": "3-sty Terrace/Link House (Corner)",
     "size": 3656,
     "furnishing": "Partly Furnished",
-    "id": 47
+    "id": 47,
+    "view": 8
   },
   {
     "location": "Cheras",
@@ -536,7 +584,8 @@
     "type": "2.5-sty Terrace/Link House (EndLot)",
     "size": 1400,
     "furnishing": "Fully Furnished",
-    "id": 48
+    "id": 48,
+    "view": 9
   },
   {
     "location": "Mont Kiara",
@@ -547,7 +596,8 @@
     "type": "Condominium",
     "size": 3043,
     "furnishing": "Fully Furnished",
-    "id": 49
+    "id": 49,
+    "view": 15
   },
   {
     "location": "KLCC",
@@ -558,7 +608,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 710,
     "furnishing": "Fully Furnished",
-    "id": 50
+    "id": 50,
+    "view": 18
   },
   {
     "location": "KLCC",
@@ -569,7 +620,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 1206,
     "furnishing": "Fully Furnished",
-    "id": 51
+    "id": 51,
+    "view": 16
   },
   {
     "location": "Sentul",
@@ -580,7 +632,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1081,
     "furnishing": "Unfurnished",
-    "id": 52
+    "id": 52,
+    "view": 21
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -591,7 +644,8 @@
     "type": "Serviced Residence",
     "size": 1094,
     "furnishing": "Fully Furnished",
-    "id": 53
+    "id": 53,
+    "view": 19
   },
   {
     "location": "KL City",
@@ -602,7 +656,8 @@
     "type": "Bungalow (Corner)",
     "size": 13000,
     "furnishing": "Partly Furnished",
-    "id": 54
+    "id": 54,
+    "view": 20
   },
   {
     "location": "Sentul",
@@ -613,7 +668,8 @@
     "type": "Condominium",
     "size": 1087,
     "furnishing": "Fully Furnished",
-    "id": 55
+    "id": 55,
+    "view": 22
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -624,7 +680,8 @@
     "type": "Condominium",
     "size": 1265,
     "furnishing": "Unfurnished",
-    "id": 56
+    "id": 56,
+    "view": 11
   },
   {
     "location": "Bukit Jalil",
@@ -635,7 +692,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 967,
     "furnishing": "Unfurnished",
-    "id": 57
+    "id": 57,
+    "view": 4
   },
   {
     "location": "Keramat",
@@ -646,7 +704,8 @@
     "type": "Semi-detached House",
     "size": 3900,
     "furnishing": "Fully Furnished",
-    "id": 58
+    "id": 58,
+    "view": 20
   },
   {
     "location": "Mont Kiara",
@@ -657,7 +716,8 @@
     "type": "Condominium (Corner)",
     "size": 3000,
     "furnishing": "Partly Furnished",
-    "id": 59
+    "id": 59,
+    "view": 2
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -668,7 +728,8 @@
     "type": "Condominium (Corner)",
     "size": 1250,
     "furnishing": "Partly Furnished",
-    "id": 60
+    "id": 60,
+    "view": 15
   },
   {
     "location": "Mont Kiara",
@@ -679,7 +740,8 @@
     "type": "Serviced Residence",
     "size": 1100,
     "furnishing": "Partly Furnished",
-    "id": 61
+    "id": 61,
+    "view": 17
   },
   {
     "location": "Kepong",
@@ -690,7 +752,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 1930,
     "furnishing": "Partly Furnished",
-    "id": 62
+    "id": 62,
+    "view": 20
   },
   {
     "location": "KLCC",
@@ -701,7 +764,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 1055,
     "furnishing": "Partly Furnished",
-    "id": 63
+    "id": 63,
+    "view": 20
   },
   {
     "location": "Bukit Jalil",
@@ -712,7 +776,8 @@
     "type": "Apartment (Intermediate)",
     "size": 850,
     "furnishing": "Partly Furnished",
-    "id": 64
+    "id": 64,
+    "view": 18
   },
   {
     "location": "Mont Kiara",
@@ -723,7 +788,8 @@
     "type": "Condominium",
     "size": 3668,
     "furnishing": "Partly Furnished",
-    "id": 65
+    "id": 65,
+    "view": 15
   },
   {
     "location": "Cheras",
@@ -734,7 +800,8 @@
     "type": "2-sty Terrace/Link House (Intermediate)",
     "size": 1200,
     "furnishing": "Partly Furnished",
-    "id": 66
+    "id": 66,
+    "view": 9
   },
   {
     "location": "Segambut",
@@ -745,7 +812,8 @@
     "type": "Apartment (Intermediate)",
     "size": 1160,
     "furnishing": "Partly Furnished",
-    "id": 67
+    "id": 67,
+    "view": 12
   },
   {
     "location": "Mont Kiara",
@@ -756,7 +824,8 @@
     "type": "Condominium (Corner)",
     "size": 1380,
     "furnishing": "Fully Furnished",
-    "id": 68
+    "id": 68,
+    "view": 18
   },
   {
     "location": "Bukit Bintang",
@@ -767,7 +836,8 @@
     "type": "Serviced Residence",
     "size": 652,
     "furnishing": "Fully Furnished",
-    "id": 69
+    "id": 69,
+    "view": 23
   },
   {
     "location": "Segambut",
@@ -778,7 +848,8 @@
     "type": "Condominium",
     "size": 1319,
     "furnishing": "Partly Furnished",
-    "id": 70
+    "id": 70,
+    "view": 5
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -789,7 +860,8 @@
     "type": "Condominium",
     "size": 1300,
     "furnishing": "Partly Furnished",
-    "id": 71
+    "id": 71,
+    "view": 16
   },
   {
     "location": "KL City",
@@ -800,7 +872,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 1076,
     "furnishing": "Fully Furnished",
-    "id": 72
+    "id": 72,
+    "view": 2
   },
   {
     "location": "Dutamas",
@@ -811,7 +884,8 @@
     "type": "Condominium",
     "size": 1900,
     "furnishing": "Partly Furnished",
-    "id": 73
+    "id": 73,
+    "view": 18
   },
   {
     "location": "Sri Petaling",
@@ -822,7 +896,8 @@
     "type": "2-sty Terrace/Link House (Corner)",
     "size": 3000,
     "furnishing": "Partly Furnished",
-    "id": 74
+    "id": 74,
+    "view": 7
   },
   {
     "location": "Bangsar",
@@ -833,7 +908,8 @@
     "type": "Semi-detached House (Intermediate)",
     "size": 2000,
     "furnishing": "Partly Furnished",
-    "id": 75
+    "id": 75,
+    "view": 18
   },
   {
     "location": "Damansara Heights",
@@ -844,7 +920,8 @@
     "type": "Condominium (Corner)",
     "size": 1979,
     "furnishing": "Partly Furnished",
-    "id": 76
+    "id": 76,
+    "view": 11
   },
   {
     "location": "Wangsa Maju",
@@ -855,7 +932,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 841,
     "furnishing": "Partly Furnished",
-    "id": 77
+    "id": 77,
+    "view": 22
   },
   {
     "location": "Cheras",
@@ -866,7 +944,8 @@
     "type": "Condominium",
     "size": 910,
     "furnishing": "Partly Furnished",
-    "id": 78
+    "id": 78,
+    "view": 2
   },
   {
     "location": "OUG",
@@ -877,7 +956,8 @@
     "type": "2-sty Terrace/Link House (Intermediate)",
     "size": 1400,
     "furnishing": "Partly Furnished",
-    "id": 79
+    "id": 79,
+    "view": 5
   },
   {
     "location": "Cheras",
@@ -888,7 +968,8 @@
     "type": "Serviced Residence",
     "size": 1483,
     "furnishing": "Fully Furnished",
-    "id": 80
+    "id": 80,
+    "view": 22
   },
   {
     "location": "Sri Hartamas",
@@ -899,7 +980,8 @@
     "type": "2-sty Terrace/Link House (Intermediate)",
     "size": 1450,
     "furnishing": "Partly Furnished",
-    "id": 81
+    "id": 81,
+    "view": 16
   },
   {
     "location": "Sri Hartamas",
@@ -910,7 +992,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 1230,
     "furnishing": "Fully Furnished",
-    "id": 82
+    "id": 82,
+    "view": 20
   },
   {
     "location": "Taman Desa",
@@ -921,7 +1004,8 @@
     "type": "Condominium (Intermediate)",
     "size": 938,
     "furnishing": "Fully Furnished",
-    "id": 83
+    "id": 83,
+    "view": 19
   },
   {
     "location": "Setapak",
@@ -932,7 +1016,8 @@
     "type": "Condominium (Corner)",
     "size": 1450,
     "furnishing": "Partly Furnished",
-    "id": 84
+    "id": 84,
+    "view": 24
   },
   {
     "location": "Kepong",
@@ -943,7 +1028,8 @@
     "type": "Condominium (Intermediate)",
     "size": 930,
     "furnishing": "Unfurnished",
-    "id": 85
+    "id": 85,
+    "view": 5
   },
   {
     "location": "Sri Petaling",
@@ -954,7 +1040,8 @@
     "type": "2-sty Terrace/Link House (Intermediate)",
     "size": 1200,
     "furnishing": "Partly Furnished",
-    "id": 86
+    "id": 86,
+    "view": 23
   },
   {
     "location": "Seputeh",
@@ -965,7 +1052,8 @@
     "type": "Bungalow",
     "size": 6000,
     "furnishing": "Partly Furnished",
-    "id": 87
+    "id": 87,
+    "view": 13
   },
   {
     "location": "Bukit Jalil",
@@ -976,7 +1064,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1231,
     "furnishing": "Partly Furnished",
-    "id": 88
+    "id": 88,
+    "view": 3
   },
   {
     "location": "Taman Tun Dr Ismail",
@@ -987,7 +1076,8 @@
     "type": "2-sty Terrace/Link House (Intermediate)",
     "size": 1900,
     "furnishing": "Partly Furnished",
-    "id": 89
+    "id": 89,
+    "view": 15
   },
   {
     "location": "Dutamas",
@@ -998,7 +1088,8 @@
     "type": "Condominium",
     "size": 1100,
     "furnishing": "Fully Furnished",
-    "id": 90
+    "id": 90,
+    "view": 23
   },
   {
     "location": "Cheras",
@@ -1009,7 +1100,8 @@
     "type": "Condominium (Corner)",
     "size": 903,
     "furnishing": "Partly Furnished",
-    "id": 91
+    "id": 91,
+    "view": 10
   },
   {
     "location": "Dutamas",
@@ -1020,7 +1112,8 @@
     "type": "Condominium (Corner)",
     "size": 1710,
     "furnishing": "Partly Furnished",
-    "id": 92
+    "id": 92,
+    "view": 1
   },
   {
     "location": "Cheras",
@@ -1031,7 +1124,8 @@
     "type": "Semi-detached House (Intermediate)",
     "size": 5079,
     "furnishing": "Partly Furnished",
-    "id": 93
+    "id": 93,
+    "view": 14
   },
   {
     "location": "Taman Tun Dr Ismail",
@@ -1042,7 +1136,8 @@
     "type": "1-sty Terrace/Link House (Intermediate)",
     "size": 1800,
     "furnishing": "Partly Furnished",
-    "id": 94
+    "id": 94,
+    "view": 5
   },
   {
     "location": "Sri Petaling",
@@ -1053,7 +1148,8 @@
     "type": "Condominium",
     "size": 694,
     "furnishing": "Partly Furnished",
-    "id": 95
+    "id": 95,
+    "view": 17
   },
   {
     "location": "Bangsar",
@@ -1064,7 +1160,8 @@
     "type": "Semi-detached House",
     "size": 4800,
     "furnishing": "Partly Furnished",
-    "id": 96
+    "id": 96,
+    "view": 2
   },
   {
     "location": "Bangsar South",
@@ -1075,7 +1172,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 823,
     "furnishing": "Partly Furnished",
-    "id": 97
+    "id": 97,
+    "view": 24
   },
   {
     "location": "Cheras",
@@ -1086,7 +1184,8 @@
     "type": "Condominium",
     "size": 1142,
     "furnishing": "Partly Furnished",
-    "id": 98
+    "id": 98,
+    "view": 13
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -1097,7 +1196,8 @@
     "type": "Serviced Residence",
     "size": 891,
     "furnishing": "Partly Furnished",
-    "id": 99
+    "id": 99,
+    "view": 16
   },
   {
     "location": "Damansara Heights",
@@ -1108,7 +1208,8 @@
     "type": "Condominium",
     "size": 1516,
     "furnishing": "Fully Furnished",
-    "id": 100
+    "id": 100,
+    "view": 1
   },
   {
     "location": "Cheras",
@@ -1119,7 +1220,8 @@
     "type": "Condominium (Corner)",
     "size": 925,
     "furnishing": "Partly Furnished",
-    "id": 101
+    "id": 101,
+    "view": 14
   },
   {
     "location": "Mont Kiara",
@@ -1130,7 +1232,8 @@
     "type": "Condominium",
     "size": 662,
     "furnishing": "Fully Furnished",
-    "id": 102
+    "id": 102,
+    "view": 21
   },
   {
     "location": "Setapak",
@@ -1141,7 +1244,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1408,
     "furnishing": "Partly Furnished",
-    "id": 103
+    "id": 103,
+    "view": 13
   },
   {
     "location": "Mont Kiara",
@@ -1152,7 +1256,8 @@
     "type": "Condominium (Corner)",
     "size": 4000,
     "furnishing": "Partly Furnished",
-    "id": 104
+    "id": 104,
+    "view": 3
   },
   {
     "location": "KL Sentral",
@@ -1163,7 +1268,8 @@
     "type": "Serviced Residence",
     "size": 1138,
     "furnishing": "Partly Furnished",
-    "id": 105
+    "id": 105,
+    "view": 3
   },
   {
     "location": "Puchong",
@@ -1174,7 +1280,8 @@
     "type": "Apartment (Corner)",
     "size": 829,
     "furnishing": "Unfurnished",
-    "id": 106
+    "id": 106,
+    "view": 17
   },
   {
     "location": "Mont Kiara",
@@ -1185,7 +1292,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 1078,
     "furnishing": "Fully Furnished",
-    "id": 107
+    "id": 107,
+    "view": 4
   },
   {
     "location": "Kuchai Lama",
@@ -1196,7 +1304,8 @@
     "type": "Condominium (Corner)",
     "size": 1948,
     "furnishing": "Partly Furnished",
-    "id": 108
+    "id": 108,
+    "view": 5
   },
   {
     "location": "Damansara Heights",
@@ -1207,7 +1316,8 @@
     "type": "Bungalow",
     "size": 7068,
     "furnishing": "Partly Furnished",
-    "id": 109
+    "id": 109,
+    "view": 13
   },
   {
     "location": "Dutamas",
@@ -1218,7 +1328,8 @@
     "type": "Condominium (Corner)",
     "size": 3980,
     "furnishing": "Fully Furnished",
-    "id": 110
+    "id": 110,
+    "view": 5
   },
   {
     "location": "Cheras",
@@ -1229,7 +1340,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1286,
     "furnishing": "Partly Furnished",
-    "id": 111
+    "id": 111,
+    "view": 4
   },
   {
     "location": "Cheras",
@@ -1240,7 +1352,8 @@
     "type": "Condominium (Corner)",
     "size": 1000,
     "furnishing": "Partly Furnished",
-    "id": 112
+    "id": 112,
+    "view": 24
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -1251,7 +1364,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 950,
     "furnishing": "Partly Furnished",
-    "id": 113
+    "id": 113,
+    "view": 11
   },
   {
     "location": "KL City",
@@ -1262,7 +1376,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 1157,
     "furnishing": "Partly Furnished",
-    "id": 114
+    "id": 114,
+    "view": 4
   },
   {
     "location": "Sentul",
@@ -1273,7 +1388,8 @@
     "type": "Condominium (Corner)",
     "size": 1078,
     "furnishing": "Partly Furnished",
-    "id": 115
+    "id": 115,
+    "view": 11
   },
   {
     "location": "Kepong",
@@ -1284,7 +1400,8 @@
     "type": "2-sty Terrace/Link House (Intermediate)",
     "size": 1300,
     "furnishing": "Partly Furnished",
-    "id": 116
+    "id": 116,
+    "view": 23
   },
   {
     "location": "Dutamas",
@@ -1295,7 +1412,8 @@
     "type": "Condominium (Corner)",
     "size": 1100,
     "furnishing": "Partly Furnished",
-    "id": 117
+    "id": 117,
+    "view": 12
   },
   {
     "location": "Mont Kiara",
@@ -1306,7 +1424,8 @@
     "type": "Condominium",
     "size": 1830,
     "furnishing": "Partly Furnished",
-    "id": 118
+    "id": 118,
+    "view": 10
   },
   {
     "location": "Sentul",
@@ -1317,7 +1436,8 @@
     "type": "Condominium (Corner)",
     "size": 1087,
     "furnishing": "Partly Furnished",
-    "id": 119
+    "id": 119,
+    "view": 18
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -1328,7 +1448,8 @@
     "type": "Condominium",
     "size": 1362,
     "furnishing": "Partly Furnished",
-    "id": 120
+    "id": 120,
+    "view": 13
   },
   {
     "location": "Sentul",
@@ -1339,7 +1460,8 @@
     "type": "Condominium (Corner)",
     "size": 1900,
     "furnishing": "Fully Furnished",
-    "id": 121
+    "id": 121,
+    "view": 5
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -1350,7 +1472,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 1094,
     "furnishing": "Partly Furnished",
-    "id": 122
+    "id": 122,
+    "view": 14
   },
   {
     "location": "Mont Kiara",
@@ -1361,7 +1484,8 @@
     "type": "Condominium",
     "size": 2055,
     "furnishing": "Fully Furnished",
-    "id": 123
+    "id": 123,
+    "view": 19
   },
   {
     "location": "Desa Pandan",
@@ -1372,7 +1496,8 @@
     "type": "Serviced Residence",
     "size": 1086,
     "furnishing": "Partly Furnished",
-    "id": 124
+    "id": 124,
+    "view": 11
   },
   {
     "location": "Taman Desa",
@@ -1383,7 +1508,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1170,
     "furnishing": "Fully Furnished",
-    "id": 125
+    "id": 125,
+    "view": 9
   },
   {
     "location": "Cheras",
@@ -1394,7 +1520,8 @@
     "type": "Apartment (Intermediate)",
     "size": 1022,
     "furnishing": "Unfurnished",
-    "id": 126
+    "id": 126,
+    "view": 6
   },
   {
     "location": "Cheras",
@@ -1405,7 +1532,8 @@
     "type": "2-sty Terrace/Link House (Corner)",
     "size": 2170,
     "furnishing": "Fully Furnished",
-    "id": 127
+    "id": 127,
+    "view": 21
   },
   {
     "location": "Kuchai Lama",
@@ -1416,7 +1544,8 @@
     "type": "Condominium",
     "size": 1421,
     "furnishing": "Partly Furnished",
-    "id": 128
+    "id": 128,
+    "view": 17
   },
   {
     "location": "Desa ParkCity",
@@ -1427,7 +1556,8 @@
     "type": "Condominium",
     "size": 1808,
     "furnishing": "Partly Furnished",
-    "id": 129
+    "id": 129,
+    "view": 17
   },
   {
     "location": "Setapak",
@@ -1438,7 +1568,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1182,
     "furnishing": "Partly Furnished",
-    "id": 130
+    "id": 130,
+    "view": 17
   },
   {
     "location": "KLCC",
@@ -1449,7 +1580,8 @@
     "type": "Condominium (Corner)",
     "size": 1356,
     "furnishing": "Fully Furnished",
-    "id": 131
+    "id": 131,
+    "view": 21
   },
   {
     "location": "KL Eco City",
@@ -1460,7 +1592,8 @@
     "type": "Condominium (EndLot)",
     "size": 657,
     "furnishing": "Fully Furnished",
-    "id": 132
+    "id": 132,
+    "view": 15
   },
   {
     "location": "Mont Kiara",
@@ -1471,7 +1604,8 @@
     "type": "Condominium (Corner)",
     "size": 1500,
     "furnishing": "Fully Furnished",
-    "id": 133
+    "id": 133,
+    "view": 19
   },
   {
     "location": "Damansara Heights",
@@ -1482,7 +1616,8 @@
     "type": "Serviced Residence",
     "size": 1152,
     "furnishing": "Partly Furnished",
-    "id": 134
+    "id": 134,
+    "view": 9
   },
   {
     "location": "Sri Petaling",
@@ -1493,7 +1628,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1400,
     "furnishing": "Fully Furnished",
-    "id": 135
+    "id": 135,
+    "view": 20
   },
   {
     "location": "Dutamas",
@@ -1504,7 +1640,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1253,
     "furnishing": "Unfurnished",
-    "id": 136
+    "id": 136,
+    "view": 15
   },
   {
     "location": "Sentul",
@@ -1515,7 +1652,8 @@
     "type": "Condominium",
     "size": 1488,
     "furnishing": "Partly Furnished",
-    "id": 137
+    "id": 137,
+    "view": 24
   },
   {
     "location": "Bangsar",
@@ -1526,7 +1664,8 @@
     "type": "Bungalow (Intermediate)",
     "size": 9300,
     "furnishing": "Partly Furnished",
-    "id": 138
+    "id": 138,
+    "view": 19
   },
   {
     "location": "Pantai",
@@ -1537,7 +1676,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 518,
     "furnishing": "Partly Furnished",
-    "id": 139
+    "id": 139,
+    "view": 6
   },
   {
     "location": "Sentul",
@@ -1548,7 +1688,8 @@
     "type": "Condominium",
     "size": 1488,
     "furnishing": "Partly Furnished",
-    "id": 140
+    "id": 140,
+    "view": 13
   },
   {
     "location": "Pandan Indah",
@@ -1559,7 +1700,8 @@
     "type": "2-sty Terrace/Link House (Intermediate)",
     "size": 1200,
     "furnishing": "Partly Furnished",
-    "id": 141
+    "id": 141,
+    "view": 21
   },
   {
     "location": "KLCC",
@@ -1570,7 +1712,8 @@
     "type": "Condominium (Corner)",
     "size": 1905,
     "furnishing": "Fully Furnished",
-    "id": 142
+    "id": 142,
+    "view": 10
   },
   {
     "location": "Setapak",
@@ -1581,7 +1724,8 @@
     "type": "Condominium (Corner)",
     "size": 1248,
     "furnishing": "Fully Furnished",
-    "id": 143
+    "id": 143,
+    "view": 7
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -1592,7 +1736,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1168,
     "furnishing": "Partly Furnished",
-    "id": 144
+    "id": 144,
+    "view": 16
   },
   {
     "location": "Setapak",
@@ -1603,7 +1748,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 1059,
     "furnishing": "Unfurnished",
-    "id": 145
+    "id": 145,
+    "view": 21
   },
   {
     "location": "Kuchai Lama",
@@ -1614,7 +1760,8 @@
     "type": "Condominium (Corner)",
     "size": 2387,
     "furnishing": "Unfurnished",
-    "id": 146
+    "id": 146,
+    "view": 20
   },
   {
     "location": "Mont Kiara",
@@ -1625,7 +1772,8 @@
     "type": "Condominium (Corner)",
     "size": 1830,
     "furnishing": "Partly Furnished",
-    "id": 147
+    "id": 147,
+    "view": 15
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -1636,7 +1784,8 @@
     "type": "Condominium (Intermediate)",
     "size": 704,
     "furnishing": "Fully Furnished",
-    "id": 148
+    "id": 148,
+    "view": 7
   },
   {
     "location": "Cheras",
@@ -1647,7 +1796,8 @@
     "type": "Condominium (Intermediate)",
     "size": 903,
     "furnishing": "Partly Furnished",
-    "id": 149
+    "id": 149,
+    "view": 12
   },
   {
     "location": "Cheras",
@@ -1658,7 +1808,8 @@
     "type": "2-sty Terrace/Link House (Intermediate)",
     "size": 1400,
     "furnishing": "Partly Furnished",
-    "id": 150
+    "id": 150,
+    "view": 20
   },
   {
     "location": "Desa ParkCity",
@@ -1669,7 +1820,8 @@
     "type": "Condominium (Corner)",
     "size": 0,
     "furnishing": "Unfurnished",
-    "id": 151
+    "id": 151,
+    "view": 10
   },
   {
     "location": "Ampang",
@@ -1680,7 +1832,8 @@
     "type": "Condominium (Intermediate)",
     "size": 2300,
     "furnishing": "Partly Furnished",
-    "id": 152
+    "id": 152,
+    "view": 3
   },
   {
     "location": "Country Heights Damansara",
@@ -1691,7 +1844,8 @@
     "type": "Bungalow (Intermediate)",
     "size": 15250,
     "furnishing": "Fully Furnished",
-    "id": 153
+    "id": 153,
+    "view": 21
   },
   {
     "location": "Kepong",
@@ -1702,7 +1856,8 @@
     "type": "Townhouse (Intermediate)",
     "size": 1100,
     "furnishing": "Unfurnished",
-    "id": 154
+    "id": 154,
+    "view": 10
   },
   {
     "location": "City Centre",
@@ -1713,7 +1868,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 1131,
     "furnishing": "Fully Furnished",
-    "id": 155
+    "id": 155,
+    "view": 5
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -1724,7 +1880,8 @@
     "type": "Apartment",
     "size": 1240,
     "furnishing": "Fully Furnished",
-    "id": 156
+    "id": 156,
+    "view": 19
   },
   {
     "location": "Mont Kiara",
@@ -1735,7 +1892,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 932,
     "furnishing": "Fully Furnished",
-    "id": 157
+    "id": 157,
+    "view": 2
   },
   {
     "location": "Bukit Jalil",
@@ -1746,7 +1904,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1513,
     "furnishing": "Partly Furnished",
-    "id": 158
+    "id": 158,
+    "view": 6
   },
   {
     "location": "Mont Kiara",
@@ -1757,7 +1916,8 @@
     "type": "Condominium",
     "size": 1250,
     "furnishing": "Fully Furnished",
-    "id": 159
+    "id": 159,
+    "view": 17
   },
   {
     "location": "Cheras",
@@ -1768,7 +1928,8 @@
     "type": "Condominium",
     "size": 1307,
     "furnishing": "Fully Furnished",
-    "id": 160
+    "id": 160,
+    "view": 7
   },
   {
     "location": "Pantai",
@@ -1779,7 +1940,8 @@
     "type": "Condominium",
     "size": 1495,
     "furnishing": "Fully Furnished",
-    "id": 161
+    "id": 161,
+    "view": 2
   },
   {
     "location": "Sungai Besi",
@@ -1790,7 +1952,8 @@
     "type": "Condominium",
     "size": 1109,
     "furnishing": "Partly Furnished",
-    "id": 162
+    "id": 162,
+    "view": 7
   },
   {
     "location": "Bukit Jalil",
@@ -1801,7 +1964,8 @@
     "type": "Apartment",
     "size": 1008,
     "furnishing": "Partly Furnished",
-    "id": 163
+    "id": 163,
+    "view": 14
   },
   {
     "location": "KL Sentral",
@@ -1812,7 +1976,8 @@
     "type": "Serviced Residence (Penthouse)",
     "size": 2982,
     "furnishing": "Partly Furnished",
-    "id": 164
+    "id": 164,
+    "view": 12
   },
   {
     "location": "KL Eco City",
@@ -1823,7 +1988,8 @@
     "type": "Condominium",
     "size": 710,
     "furnishing": "Partly Furnished",
-    "id": 165
+    "id": 165,
+    "view": 10
   },
   {
     "location": "KLCC",
@@ -1834,7 +2000,8 @@
     "type": "Condominium",
     "size": 871,
     "furnishing": "Fully Furnished",
-    "id": 166
+    "id": 166,
+    "view": 12
   },
   {
     "location": "Cheras",
@@ -1845,7 +2012,8 @@
     "type": "Condominium",
     "size": 902,
     "furnishing": "Partly Furnished",
-    "id": 167
+    "id": 167,
+    "view": 8
   },
   {
     "location": "KLCC",
@@ -1856,7 +2024,8 @@
     "type": "Serviced Residence",
     "size": 1604,
     "furnishing": "Unfurnished",
-    "id": 168
+    "id": 168,
+    "view": 10
   },
   {
     "location": "Bukit Bintang",
@@ -1867,7 +2036,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 1066,
     "furnishing": "Fully Furnished",
-    "id": 169
+    "id": 169,
+    "view": 1
   },
   {
     "location": "Salak Selatan",
@@ -1878,7 +2048,8 @@
     "type": "Serviced Residence",
     "size": 1122,
     "furnishing": "Partly Furnished",
-    "id": 170
+    "id": 170,
+    "view": 14
   },
   {
     "location": "Mont Kiara",
@@ -1889,7 +2060,8 @@
     "type": "Condominium",
     "size": 5693,
     "furnishing": "Unfurnished",
-    "id": 171
+    "id": 171,
+    "view": 11
   },
   {
     "location": "KLCC",
@@ -1900,7 +2072,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 1399,
     "furnishing": "Fully Furnished",
-    "id": 172
+    "id": 172,
+    "view": 16
   },
   {
     "location": "Segambut",
@@ -1911,7 +2084,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1300,
     "furnishing": "Fully Furnished",
-    "id": 173
+    "id": 173,
+    "view": 13
   },
   {
     "location": "KLCC",
@@ -1922,7 +2096,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 1076,
     "furnishing": "Fully Furnished",
-    "id": 174
+    "id": 174,
+    "view": 2
   },
   {
     "location": "KL City",
@@ -1933,7 +2108,8 @@
     "type": "Serviced Residence (Corner)",
     "size": 1582,
     "furnishing": "Fully Furnished",
-    "id": 175
+    "id": 175,
+    "view": 11
   },
   {
     "location": "Mont Kiara",
@@ -1944,7 +2120,8 @@
     "type": "Condominium",
     "size": 2020,
     "furnishing": "Partly Furnished",
-    "id": 176
+    "id": 176,
+    "view": 18
   },
   {
     "location": "KLCC",
@@ -1955,7 +2132,8 @@
     "type": "Condominium",
     "size": 1154,
     "furnishing": "Partly Furnished",
-    "id": 177
+    "id": 177,
+    "view": 18
   },
   {
     "location": "Sri Hartamas",
@@ -1966,7 +2144,8 @@
     "type": "Semi-detached House (Corner)",
     "size": 7500,
     "furnishing": "Partly Furnished",
-    "id": 178
+    "id": 178,
+    "view": 18
   },
   {
     "location": "Jalan Ipoh",
@@ -1977,7 +2156,8 @@
     "type": "Condominium (Corner)",
     "size": 1071,
     "furnishing": "Partly Furnished",
-    "id": 179
+    "id": 179,
+    "view": 17
   },
   {
     "location": "KLCC",
@@ -1988,7 +2168,8 @@
     "type": "Serviced Residence",
     "size": 1100,
     "furnishing": "Fully Furnished",
-    "id": 180
+    "id": 180,
+    "view": 4
   },
   {
     "location": "Sri Hartamas",
@@ -1999,7 +2180,8 @@
     "type": "3-sty Terrace/Link House",
     "size": 2000,
     "furnishing": "Partly Furnished",
-    "id": 181
+    "id": 181,
+    "view": 18
   },
   {
     "location": "Pantai",
@@ -2010,7 +2192,8 @@
     "type": "Condominium",
     "size": 1019,
     "furnishing": "Fully Furnished",
-    "id": 182
+    "id": 182,
+    "view": 14
   },
   {
     "location": "Bangsar",
@@ -2021,7 +2204,8 @@
     "type": "Condominium",
     "size": 4025,
     "furnishing": "Partly Furnished",
-    "id": 183
+    "id": 183,
+    "view": 13
   },
   {
     "location": "Ampang",
@@ -2032,7 +2216,8 @@
     "type": "Semi-detached House",
     "size": 3200,
     "furnishing": "Partly Furnished",
-    "id": 184
+    "id": 184,
+    "view": 5
   },
   {
     "location": "Sentul",
@@ -2043,7 +2228,8 @@
     "type": "Apartment (EndLot)",
     "size": 850,
     "furnishing": "Unfurnished",
-    "id": 185
+    "id": 185,
+    "view": 20
   },
   {
     "location": "Cheras",
@@ -2054,7 +2240,8 @@
     "type": "Semi-detached House",
     "size": 3600,
     "furnishing": "Partly Furnished",
-    "id": 186
+    "id": 186,
+    "view": 21
   },
   {
     "location": "Bangsar",
@@ -2065,7 +2252,8 @@
     "type": "2-sty Terrace/Link House (Intermediate)",
     "size": 1700,
     "furnishing": "Partly Furnished",
-    "id": 187
+    "id": 187,
+    "view": 18
   },
   {
     "location": "Taman Tun Dr Ismail",
@@ -2076,7 +2264,8 @@
     "type": "1-sty Terrace/Link House (Intermediate)",
     "size": 1920,
     "furnishing": "Fully Furnished",
-    "id": 188
+    "id": 188,
+    "view": 6
   },
   {
     "location": "Jalan Klang Lama (Old Klang Road)",
@@ -2087,7 +2276,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1168,
     "furnishing": "Partly Furnished",
-    "id": 189
+    "id": 189,
+    "view": 11
   },
   {
     "location": "Kuchai Lama",
@@ -2098,7 +2288,8 @@
     "type": "Condominium (Intermediate)",
     "size": 936,
     "furnishing": "Partly Furnished",
-    "id": 190
+    "id": 190,
+    "view": 19
   },
   {
     "location": "Desa ParkCity",
@@ -2109,7 +2300,8 @@
     "type": "Condominium (Intermediate)",
     "size": 1093,
     "furnishing": "Partly Furnished",
-    "id": 191
+    "id": 191,
+    "view": 21
   },
   {
     "location": "Desa ParkCity",
@@ -2120,7 +2312,8 @@
     "type": "Condominium",
     "size": 3211,
     "furnishing": "Partly Furnished",
-    "id": 192
+    "id": 192,
+    "view": 18
   },
   {
     "location": "KL City",
@@ -2131,7 +2324,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 743,
     "furnishing": "Fully Furnished",
-    "id": 193
+    "id": 193,
+    "view": 15
   },
   {
     "location": "Sri Hartamas",
@@ -2142,7 +2336,8 @@
     "type": "1-sty Terrace/Link House (Intermediate)",
     "size": 5230,
     "furnishing": "Fully Furnished",
-    "id": 194
+    "id": 194,
+    "view": 9
   },
   {
     "location": "KLCC",
@@ -2153,7 +2348,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 950,
     "furnishing": "Fully Furnished",
-    "id": 195
+    "id": 195,
+    "view": 22
   },
   {
     "location": "KL City",
@@ -2164,7 +2360,8 @@
     "type": "Serviced Residence",
     "size": 732,
     "furnishing": "Fully Furnished",
-    "id": 196
+    "id": 196,
+    "view": 9
   },
   {
     "location": "Kuchai Lama",
@@ -2175,7 +2372,8 @@
     "type": "2-sty Terrace/Link House (Intermediate)",
     "size": 1400,
     "furnishing": "Unfurnished",
-    "id": 197
+    "id": 197,
+    "view": 9
   },
   {
     "location": "Cheras",
@@ -2186,7 +2384,8 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 695,
     "furnishing": "Partly Furnished",
-    "id": 198
+    "id": 198,
+    "view": 23
   },
   {
     "location": "KLCC",
@@ -2197,6 +2396,7 @@
     "type": "Serviced Residence (Intermediate)",
     "size": 925,
     "furnishing": "Fully Furnished",
-    "id": 199
+    "id": 199,
+    "view": 5
   }
 ]
