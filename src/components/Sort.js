@@ -48,10 +48,9 @@ export default class Sort extends Component {
 
   render() {
     return (
-      <div>
-        <p>Sort By</p>
+      <div className="container d-flex justify-content-center">
         <select onChange={this.sort}>
-          <option value=""> -- </option>
+          <option value=""> Sort By </option>
           <option value="popular"> Porpularity </option>
           <option value="p_low"> Price: Low to High </option>
           <option value="p_high"> Price: High to Low </option>
